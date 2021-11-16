@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2021-11-16T19:02:30+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">ALEX WEB GITPOD</title><subtitle>An amazing website.</subtitle><author><name>Alex</name></author><entry><title type="html">Aet</title><link href="http://localhost:4000/blog/aet" rel="alternate" type="text/html" title="Aet" /><published>2021-11-09T00:00:00+00:00</published><updated>2021-11-09T00:00:00+00:00</updated><id>http://localhost:4000/blog/aet</id><content type="html" xml:base="http://localhost:4000/blog/aet">&lt;h1 id=&quot;martes-y-no-es-de-carnaval&quot;&gt;martes y no es de carnaval&lt;/h1&gt;
+
+&lt;h1 id=&quot;4&quot;&gt;4&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer naranjas&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer peras&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer limones&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Me gusta mucho comer fresas&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;!-- {&quot;First name&quot;=&gt;&quot;John&quot;, &quot;Last name&quot;=&gt;&quot;Doe&quot;, &quot;Age&quot;=&gt;&quot;35&quot;, &quot;Location&quot;=&gt;&quot;United States&quot;}{&quot;First name&quot;=&gt;&quot;Jane&quot;, &quot;Last name&quot;=&gt;&quot;Doe&quot;, &quot;Age&quot;=&gt;&quot;29&quot;, &quot;Location&quot;=&gt;&quot;France&quot;}{&quot;First name&quot;=&gt;&quot;Jack&quot;, &quot;Last name&quot;=&gt;&quot;Hill&quot;, &quot;Age&quot;=&gt;&quot;25&quot;, &quot;Location&quot;=&gt;&quot;Australia&quot;}{&quot;First name&quot;=&gt;nil, &quot;Last name&quot;=&gt;nil, &quot;Age&quot;=&gt;nil, &quot;Location&quot;=&gt;nil}--&gt;
+
+&lt;table&gt;
+  
+    
+    &lt;tr&gt;
+      
+        &lt;th&gt;First name&lt;/th&gt;
+      
+        &lt;th&gt;Last name&lt;/th&gt;
+      
+        &lt;th&gt;Age&lt;/th&gt;
+      
+        &lt;th&gt;Location&lt;/th&gt;
+      
+    &lt;/tr&gt;
+    
+  
+   &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      John
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      35
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      United States
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+  
+   &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jane
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Doe
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      29
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      France
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+  
+   &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      Jack
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      Hill
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      25
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      Australia
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+    
+  
+   &lt;tr class=&quot;row1&quot;&gt;
+&lt;td class=&quot;col1&quot;&gt;
+      
+    &lt;/td&gt;&lt;td class=&quot;col2&quot;&gt;
+      
+    &lt;/td&gt;&lt;td class=&quot;col3&quot;&gt;
+      
+    &lt;/td&gt;&lt;td class=&quot;col4&quot;&gt;
+      
+    &lt;/td&gt;&lt;/tr&gt;
+
+  
+&lt;/table&gt;
+
+&lt;p&gt;La respuesta a cuanto vale chuchu  4&lt;/p&gt;
+
+&lt;h2 id=&quot;aún-quedan-3-dias&quot;&gt;Aún quedan 3 dias&lt;/h2&gt;
+
+&lt;h1 id=&quot;esta-semana-empezó&quot;&gt;esta semana empezó&lt;/h1&gt;
+
+&lt;h2&gt;Un titulo&lt;/h2&gt;
+
+&lt;h3&gt;Un titulo más pequeño&lt;/h3&gt;</content><author><name>Alex</name></author><category term="blog" /><summary type="html">martes y no es de carnaval</summary></entry><entry><title type="html">Aprendiendo a usar un generador estático</title><link href="http://localhost:4000/docencia/AET" rel="alternate" type="text/html" title="Aprendiendo a usar un generador estático" /><published>2021-11-04T00:00:00+00:00</published><updated>2021-11-04T00:00:00+00:00</updated><id>http://localhost:4000/docencia/AET-</id><content type="html" xml:base="http://localhost:4000/docencia/AET">&lt;p&gt;I am an &lt;strong&gt;amazing&lt;/strong&gt; person.&lt;/p&gt;
+
+&lt;h1 id=&quot;por-fin-es-jueves&quot;&gt;por fin es jueves&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;al menos el proyector funciona&lt;/li&gt;
+  &lt;li&gt;control shift p es la ayuda de buscar&lt;/li&gt;
+  &lt;li&gt;no entiendo porque no se muestran los 3 puntos&lt;/li&gt;
+  &lt;li&gt;control s para guardar, pero no va&lt;/li&gt;
+&lt;/ol&gt;
+
+\[a^2 x\times\]
+
+\[f(x) = \int_{-\infty}^\infty \hat f(\xi)\,e^{2 \pi i \xi x} \,d\xi\]</content><author><name>Alex</name></author><category term="docencia" /><summary type="html">I am an amazing person.</summary></entry></feed>
