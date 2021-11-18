@@ -10,4 +10,10 @@ var store = [{
         "tags": [],
         "url": "/blog/aet",
         "teaser": null
+      },{
+        "title": "Mi Curriculum Vitae",
+        "excerpt":"CURRICULUM VITAE Nombre Alejandro Gonzalez Edad 38 Estudios Ingeniería Industrial Actualmente cursando: Master de Profesador de secundaria en la Universidad de La Laguna Enlace al campus virtual del alumno Experiencia Laboral Responsable de mantenimiento en Coca-Cola desde 2019 Responsable de mejora continua de la planta de Tenerife desde 2014 Responsable...","categories": ["blog"],
+        "tags": [],
+        "url": "/blog/CV",
+        "teaser": null
       }]
